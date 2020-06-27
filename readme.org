@@ -15,6 +15,8 @@ The equivalence between CFG and BNF is established in this paper.
 
 ** [[https://dl.acm.org/doi/pdf/10.1145/368959.368993][On Ambiguity in Phrase Structure Languages - Robert W. Floyd (1962)]]
 
+** [[https://dl.acm.org/doi/10.1145/368834.368898][On the nonexistence of a phrase structure grammar for ALGOL 60 - Robert W. Floyd (1962)]]
+
 ** [[https://dl.acm.org/doi/pdf/10.1145/321138.321145][On the Ambiguity Problem of Backus Systems (1962)]]
 
 ** [[https://www.sciencedirect.com/science/article/pii/S001999586490422X][Inherent ambiguity of minimal linear grammars - Maurice Gross (1964)]]
