@@ -6,6 +6,8 @@ Reading materials for PLT
 
 ** [[https://www.jstor.org/stable/2310058][The Mathematics of Sentence Structure - Joachim Lambek (1958)]]
 
+** [[On formal properties of simple phrase-structure grammars - Y. Bar-Hillel, M. Perles, and E. Shamir (1961)]]
+
 ** [[https://dl.acm.org/doi/10.1145/321127.321132][Two Families of Laguages Related to Algol - Ginsburg and Rice (1962)]]
 The equivalence between CFG and BNF is established in this paper.
 
