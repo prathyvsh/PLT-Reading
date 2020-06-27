@@ -33,6 +33,8 @@ The equivalence between CFG and BNF is established in this paper.
 
 ** [[https://dl.acm.org/doi/10.1145/321312.321318][Ambiguity in Context Free Languages - Ginsburg and Rice (1966)]]
 
+** [[https://dl.acm.org/doi/10.1109/FOCS.1967.3][Abstract families of languages - Seymour Ginsburg (1967)]]
+
 ** [[https://link.springer.com/article/10.1007%2FBF00288747][Ambiguity and precedence in syntax description - J. Earley (1975)]]
 
 ** [[https://www.aclweb.org/anthology/E93-1004.pdf][Talking about trees - Patrick Blackburn, Claire Gardent, Wilfried Meyer-Viol (1993)]]
