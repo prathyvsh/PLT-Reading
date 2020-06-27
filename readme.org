@@ -2,10 +2,23 @@
 
 Reading materials for PLT
 
-** [[https://chomsky.info/wp-content/uploads/195609-.pdf][Three models for the description of languages - Noam Chomsky]]
+** [[https://chomsky.info/wp-content/uploads/195609-.pdf][Three models for the description of languages - Noam Chomsky (1956)]]
+
+** [[https://www.jstor.org/stable/2310058][The Mathematics of Sentence Structure - Joachim Lambek (1958)]]
+
+** [[https://dl.acm.org/doi/10.1145/321127.321132][Two Families of Laguages Related to Algol - Ginsburg and Rice (1962)]]
+The equivalence between CFG and BNF is established in this paper.
 
 ** [[https://dl.acm.org/doi/pdf/10.1145/368959.368993][On Ambiguity in Phrase Structure Languages - Robert W. Floyd (1962)]]
 
 ** [[https://dl.acm.org/doi/pdf/10.1145/321138.321145][On the Ambiguity Problem of Backus Systems (1962)]]
 
 ** [[https://www.sciencedirect.com/science/article/pii/S001999586490422X][Inherent ambiguity of minimal linear grammars - Maurice Gross (1964)]]
+
+** [[https://www.sciencedirect.com/science/article/pii/S0019995865904262/pdf?md5=e1e68f344e52c8e0a3360763fc8f6cee&pid=1-s2.0-S0019995865904262-main.pdf][On the translation of languages from left to right - Donald Knuth (1965)]]
+
+** [[https://projecteuclid.org/euclid.ijm/1256067893][Sequences in context free languages - Ginsburg and Rice (1965)]]
+
+** [[https://dl.acm.org/doi/10.1145/321356.321364][On Context-Free Languages - Rohit Parikh (1966)]]
+
+** [[https://dl.acm.org/doi/10.1145/321312.321318][Ambiguity in Context Free Languages - Ginsburg and Rice (1966)]]
