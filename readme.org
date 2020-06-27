@@ -8,6 +8,8 @@ Reading materials for PLT
 
 ** [[https://www.jstor.org/stable/2310058][The Mathematics of Sentence Structure - Joachim Lambek (1958)]]
 
+** [[https://www.jstor.org/stable/985230][A Model and an Hypothesis for Language Structure - Victor H. Yngve (1960)]]
+
 ** [[On formal properties of simple phrase-structure grammars - Y. Bar-Hillel, M. Perles, and E. Shamir (1961)]]
 
 ** [[https://dl.acm.org/doi/10.1145/321127.321132][Two Families of Laguages Related to Algol - Ginsburg and Rice (1962)]]
@@ -21,6 +23,8 @@ The equivalence between CFG and BNF is established in this paper.
 
 ** [[https://www.sciencedirect.com/science/article/pii/S001999586490422X][Inherent ambiguity of minimal linear grammars - Maurice Gross (1964)]]
 
+** [[https://www.sciencedirect.com/science/article/pii/S0019995866800190?via%3Dihub][Deterministic context free languages - Seymour Ginsburg, Sheila Greibach(1965)]]
+
 ** [[https://www.sciencedirect.com/science/article/pii/S0019995865904262/pdf?md5=e1e68f344e52c8e0a3360763fc8f6cee&pid=1-s2.0-S0019995865904262-main.pdf][On the translation of languages from left to right - Donald Knuth (1965)]]
 
 ** [[https://projecteuclid.org/euclid.ijm/1256067893][Sequences in context free languages - Ginsburg and Rice (1965)]]
@@ -32,3 +36,7 @@ The equivalence between CFG and BNF is established in this paper.
 ** [[https://link.springer.com/article/10.1007%2FBF00288747][Ambiguity and precedence in syntax description - J. Earley (1975)]]
 
 ** [[https://www.aclweb.org/anthology/E93-1004.pdf][Talking about trees - Patrick Blackburn, Claire Gardent, Wilfried Meyer-Viol (1993)]]
+
+** Surveys
+
+*** [[Context Free Grammars by Sylvain Schmitz][http://www.lsv.fr/~schmitz/pub/barbizon-en.pdf]]
